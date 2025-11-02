@@ -1,0 +1,1052 @@
+[
+  {
+    "country": "Afghanistan",
+    "river": "Amu Darya",
+    "pronunciation": "ah-MOO DAR-yah",
+    "ipa": "ɑˈmu ˈdɑr.jə",
+    "length": 2620
+  },
+  {
+    "country": "Albania",
+    "river": "Drin",
+    "pronunciation": "DREEN",
+    "ipa": "drin",
+    "length": 285
+  },
+  {
+    "country": "Algeria",
+    "river": "Chelif",
+    "pronunciation": "sheh-LEEF",
+    "ipa": "ʃɛˈlif",
+    "length": 725
+  },
+  {
+    "country": "Angola",
+    "river": "Kwanza",
+    "pronunciation": "KWAN-zah",
+    "ipa": "ˈkwɑn.zə",
+    "length": 965
+  },
+  {
+    "country": "Argentina",
+    "river": "Paraná",
+    "pronunciation": "pah-rah-NAH",
+    "ipa": "pɑ.rɑˈnɑ",
+    "length": 4880
+  },
+  {
+    "country": "Armenia",
+    "river": "Arax",
+    "pronunciation": "ah-RAHKS",
+    "ipa": "ɑˈrɑks",
+    "length": 1072
+  },
+  {
+    "country": "Australia",
+    "river": "Murray",
+    "pronunciation": "MUR-ray",
+    "ipa": "ˈmʌr.i",
+    "length": 2508
+  },
+  {
+    "country": "Austria",
+    "river": "Danube",
+    "pronunciation": "DAN-yoob",
+    "ipa": "ˈdæn.jub",
+    "length": 2850
+  },
+  {
+    "country": "Azerbaijan",
+    "river": "Kura",
+    "pronunciation": "KOO-rah",
+    "ipa": "ˈku.rə",
+    "length": 1515
+  },
+  {
+    "country": "Bangladesh",
+    "river": "Ganges",
+    "pronunciation": "GAN-jeez",
+    "ipa": "ˈgæn.dʒiz",
+    "length": 2525
+  },
+  {
+    "country": "Belarus",
+    "river": "Dnieper",
+    "pronunciation": "DNEE-per",
+    "ipa": "ˈdni.pər",
+    "length": 2201
+  },
+  {
+    "country": "Belgium",
+    "river": "Meuse",
+    "pronunciation": "MEWZ",
+    "ipa": "mjuz",
+    "length": 925
+  },
+  {
+    "country": "Benin",
+    "river": "Niger",
+    "pronunciation": "NY-jer",
+    "ipa": "ˈnaɪ.dʒər",
+    "length": 4180
+  },
+  {
+    "country": "Bhutan",
+    "river": "Manas",
+    "pronunciation": "mah-NAHS",
+    "ipa": "məˈnɑs",
+    "length": 376
+  },
+  {
+    "country": "Bolivia",
+    "river": "Madeira",
+    "pronunciation": "mah-DAY-rah",
+    "ipa": "məˈdeɪ.rə",
+    "length": 3250
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "river": "Sava",
+    "pronunciation": "SAH-vah",
+    "ipa": "ˈsɑ.və",
+    "length": 945
+  },
+  {
+    "country": "Botswana",
+    "river": "Okavango",
+    "pronunciation": "oh-kah-VAHN-goh",
+    "ipa": "ˌoʊ.kəˈvɑŋ.goʊ",
+    "length": 1600
+  },
+  {
+    "country": "Brazil",
+    "river": "Amazon",
+    "pronunciation": "AM-uh-zon",
+    "ipa": "ˈæm.ə.zən",
+    "length": 6400
+  },
+  {
+    "country": "Bulgaria",
+    "river": "Danube",
+    "pronunciation": "DAN-yoob",
+    "ipa": "ˈdæn.jub",
+    "length": 2850
+  },
+  {
+    "country": "Burkina Faso",
+    "river": "Black Volta",
+    "pronunciation": "BLAK VOL-tah",
+    "ipa": "blæk ˈvoʊl.tə",
+    "length": 1352
+  },
+  {
+    "country": "Burundi",
+    "river": "Kagera",
+    "pronunciation": "kah-GEH-rah",
+    "ipa": "kɑˈgeɪ.rə",
+    "length": 597
+  },
+  {
+    "country": "Cambodia",
+    "river": "Mekong",
+    "pronunciation": "MEH-kong",
+    "ipa": "ˈmeɪ.kɔŋ",
+    "length": 4350
+  },
+  {
+    "country": "Cameroon",
+    "river": "Sanaga",
+    "pronunciation": "sah-NAH-gah",
+    "ipa": "səˈnɑ.gə",
+    "length": 918
+  },
+  {
+    "country": "Canada",
+    "river": "Mackenzie",
+    "pronunciation": "muh-KEN-zee",
+    "ipa": "məˈkɛn.zi",
+    "length": 4241
+  },
+  {
+    "country": "Central African Republic",
+    "river": "Ubangi",
+    "pronunciation": "oo-BAHN-gee",
+    "ipa": "uˈbɑŋ.gi",
+    "length": 2270
+  },
+  {
+    "country": "Chad",
+    "river": "Chari",
+    "pronunciation": "SHAH-ree",
+    "ipa": "ˈʃɑ.ri",
+    "length": 1400
+  },
+  {
+    "country": "Chile",
+    "river": "Loa",
+    "pronunciation": "LOH-ah",
+    "ipa": "ˈloʊ.ə",
+    "length": 440
+  },
+  {
+    "country": "China",
+    "river": "Yangtze",
+    "pronunciation": "YAHNG-tsee",
+    "ipa": "ˈjæŋ.tsi",
+    "length": 6300
+  },
+  {
+    "country": "Colombia",
+    "river": "Magdalena",
+    "pronunciation": "mag-dah-LEH-nah",
+    "ipa": "ˌmæg.dəˈleɪ.nə",
+    "length": 1540
+  },
+  {
+    "country": "Congo",
+    "river": "Congo",
+    "pronunciation": "KONG-goh",
+    "ipa": "ˈkɔŋ.goʊ",
+    "length": 4700
+  },
+  {
+    "country": "Costa Rica",
+    "river": "Tárcoles",
+    "pronunciation": "TAR-koh-les",
+    "ipa": "ˈtɑr.koʊ.lɛs",
+    "length": 111
+  },
+  {
+    "country": "Croatia",
+    "river": "Sava",
+    "pronunciation": "SAH-vah",
+    "ipa": "ˈsɑ.və",
+    "length": 945
+  },
+  {
+    "country": "Czech Republic",
+    "river": "Elbe",
+    "pronunciation": "EL-buh",
+    "ipa": "ˈɛl.bə",
+    "length": 1091
+  },
+  {
+    "country": "Denmark",
+    "river": "Gudenå",
+    "pronunciation": "GOO-den-aw",
+    "ipa": "ˈgu.dən.ɔ",
+    "length": 176
+  },
+  {
+    "country": "Dominican Republic",
+    "river": "Yaque del Norte",
+    "pronunciation": "YAH-kay del NOR-tay",
+    "ipa": "ˈjɑ.keɪ dɛl ˈnɔr.teɪ",
+    "length": 296
+  },
+  {
+    "country": "East Timor",
+    "river": "Loes",
+    "pronunciation": "LOH-es",
+    "ipa": "ˈloʊ.ɛs",
+    "length": 80
+  },
+  {
+    "country": "Ecuador",
+    "river": "Napo",
+    "pronunciation": "NAH-poh",
+    "ipa": "ˈnɑ.poʊ",
+    "length": 1075
+  },
+  {
+    "country": "Egypt",
+    "river": "Nile",
+    "pronunciation": "NYLE",
+    "ipa": "naɪl",
+    "length": 6650
+  },
+  {
+    "country": "El Salvador",
+    "river": "Lempa",
+    "pronunciation": "LEM-pah",
+    "ipa": "ˈlɛm.pə",
+    "length": 422
+  },
+  {
+    "country": "Equatorial Guinea",
+    "river": "Mbini",
+    "pronunciation": "mm-BEE-nee",
+    "ipa": "m̩ˈbi.ni",
+    "length": 350
+  },
+  {
+    "country": "Eritrea",
+    "river": "Gash",
+    "pronunciation": "GAHSH",
+    "ipa": "gæʃ",
+    "length": 440
+  },
+  {
+    "country": "Estonia",
+    "river": "Emajõgi",
+    "pronunciation": "eh-MAH-yo-gee",
+    "ipa": "ɛˈmɑ.joː.gi",
+    "length": 100
+  },
+  {
+    "country": "Eswatini",
+    "river": "Usutu",
+    "pronunciation": "oo-SOO-too",
+    "ipa": "uˈsu.tu",
+    "length": 226
+  },
+  {
+    "country": "Ethiopia",
+    "river": "Blue Nile",
+    "pronunciation": "BLOO NYLE",
+    "ipa": "blu naɪl",
+    "length": 1450
+  },
+  {
+    "country": "Finland",
+    "river": "Kemijoki",
+    "pronunciation": "KEH-mee-yo-kee",
+    "ipa": "ˈkeɪ.mi.joʊ.ki",
+    "length": 550
+  },
+  {
+    "country": "France",
+    "river": "Loire",
+    "pronunciation": "LWAHR",
+    "ipa": "lwɑr",
+    "length": 1013
+  },
+  {
+    "country": "Gabon",
+    "river": "Ogooué",
+    "pronunciation": "oh-goh-WAY",
+    "ipa": "oʊ.goʊˈweɪ",
+    "length": 1200
+  },
+  {
+    "country": "Gambia",
+    "river": "Gambia",
+    "pronunciation": "GAM-bee-ah",
+    "ipa": "ˈgæm.bi.ə",
+    "length": 1120
+  },
+  {
+    "country": "Georgia",
+    "river": "Mtkvari",
+    "pronunciation": "mm-tkVAH-ree",
+    "ipa": "m̩t.kˈvɑ.ri",
+    "length": 1515
+  },
+  {
+    "country": "Germany",
+    "river": "Rhine",
+    "pronunciation": "RYNE",
+    "ipa": "raɪn",
+    "length": 1230
+  },
+  {
+    "country": "Ghana",
+    "river": "Volta",
+    "pronunciation": "VOL-tah",
+    "ipa": "ˈvoʊl.tə",
+    "length": 1600
+  },
+  {
+    "country": "Greece",
+    "river": "Aliakmonas",
+    "pronunciation": "ah-lee-ahk-MOH-nahs",
+    "ipa": "ɑ.li.ækˈmoʊ.nɑs",
+    "length": 297
+  },
+  {
+    "country": "Guatemala",
+    "river": "Motagua",
+    "pronunciation": "moh-TAH-gwah",
+    "ipa": "moʊˈtɑ.gwə",
+    "length": 486
+  },
+  {
+    "country": "Guinea",
+    "river": "Niger",
+    "pronunciation": "NY-jer",
+    "ipa": "ˈnaɪ.dʒər",
+    "length": 4180
+  },
+  {
+    "country": "Guinea-Bissau",
+    "river": "Geba",
+    "pronunciation": "GEH-bah",
+    "ipa": "ˈgeɪ.bə",
+    "length": 550
+  },
+  {
+    "country": "Guyana",
+    "river": "Essequibo",
+    "pronunciation": "eh-seh-KEE-boh",
+    "ipa": "ˌɛ.sɛˈki.boʊ",
+    "length": 1010
+  },
+  {
+    "country": "Haiti",
+    "river": "Artibonite",
+    "pronunciation": "ar-tee-boh-NEET",
+    "ipa": "ˌɑr.ti.bəˈnit",
+    "length": 321
+  },
+  {
+    "country": "Honduras",
+    "river": "Patuca",
+    "pronunciation": "pah-TOO-kah",
+    "ipa": "pɑˈtu.kə",
+    "length": 500
+  },
+  {
+    "country": "Hungary",
+    "river": "Danube",
+    "pronunciation": "DAN-yoob",
+    "ipa": "ˈdæn.jub",
+    "length": 2850
+  },
+  {
+    "country": "Iceland",
+    "river": "Þjórsá",
+    "pronunciation": "THYOHR-saw",
+    "ipa": "ˈθjour.sɔː",
+    "length": 230
+  },
+  {
+    "country": "India",
+    "river": "Ganges",
+    "pronunciation": "GAN-jeez",
+    "ipa": "ˈgæn.dʒiz",
+    "length": 2525
+  },
+  {
+    "country": "Indonesia",
+    "river": "Kapuas",
+    "pronunciation": "kah-POO-ahs",
+    "ipa": "kəˈpu.ɑs",
+    "length": 1143
+  },
+  {
+    "country": "Iran",
+    "river": "Karun",
+    "pronunciation": "kah-ROON",
+    "ipa": "kəˈrun",
+    "length": 950
+  },
+  {
+    "country": "Iraq",
+    "river": "Euphrates",
+    "pronunciation": "you-FRAY-teez",
+    "ipa": "juˈfreɪ.tiz",
+    "length": 2800
+  },
+  {
+    "country": "Ireland",
+    "river": "Shannon",
+    "pronunciation": "SHAN-un",
+    "ipa": "ˈʃæn.ən",
+    "length": 360
+  },
+  {
+    "country": "Israel",
+    "river": "Jordan",
+    "pronunciation": "JOR-dan",
+    "ipa": "ˈdʒɔr.dən",
+    "length": 251
+  },
+  {
+    "country": "Italy",
+    "river": "Po",
+    "pronunciation": "POH",
+    "ipa": "poʊ",
+    "length": 652
+  },
+  {
+    "country": "Ivory Coast",
+    "river": "Bandama",
+    "pronunciation": "bahn-DAH-mah",
+    "ipa": "bɑnˈdɑ.mə",
+    "length": 800
+  },
+  {
+    "country": "Jamaica",
+    "river": "Rio Minho",
+    "pronunciation": "REE-oh MEEN-yoh",
+    "ipa": "ˈri.oʊ ˈmin.joʊ",
+    "length": 92
+  },
+  {
+    "country": "Japan",
+    "river": "Shinano",
+    "pronunciation": "shee-NAH-noh",
+    "ipa": "ʃiˈnɑ.noʊ",
+    "length": 367
+  },
+  {
+    "country": "Jordan",
+    "river": "Jordan",
+    "pronunciation": "JOR-dan",
+    "ipa": "ˈdʒɔr.dən",
+    "length": 251
+  },
+  {
+    "country": "Kazakhstan",
+    "river": "Irtysh",
+    "pronunciation": "eer-TISH",
+    "ipa": "ɪrˈtɪʃ",
+    "length": 4248
+  },
+  {
+    "country": "Kenya",
+    "river": "Tana",
+    "pronunciation": "TAH-nah",
+    "ipa": "ˈtɑ.nə",
+    "length": 1000
+  },
+  {
+    "country": "Kosovo",
+    "river": "White Drin",
+    "pronunciation": "WHYTE DREEN",
+    "ipa": "waɪt drin",
+    "length": 122
+  },
+  {
+    "country": "Kyrgyzstan",
+    "river": "Naryn",
+    "pronunciation": "nah-REEN",
+    "ipa": "nɑˈrin",
+    "length": 535
+  },
+  {
+    "country": "Laos",
+    "river": "Mekong",
+    "pronunciation": "MEH-kong",
+    "ipa": "ˈmeɪ.kɔŋ",
+    "length": 4350
+  },
+  {
+    "country": "Latvia",
+    "river": "Daugava",
+    "pronunciation": "dow-GAH-vah",
+    "ipa": "daʊˈgɑ.və",
+    "length": 1020
+  },
+  {
+    "country": "Lebanon",
+    "river": "Litani",
+    "pronunciation": "lee-TAH-nee",
+    "ipa": "liˈtɑ.ni",
+    "length": 170
+  },
+  {
+    "country": "Lesotho",
+    "river": "Orange",
+    "pronunciation": "OR-inj",
+    "ipa": "ˈɔr.ɪndʒ",
+    "length": 2200
+  },
+  {
+    "country": "Liberia",
+    "river": "Cavalla",
+    "pronunciation": "kah-VAH-lah",
+    "ipa": "kəˈvɑ.lə",
+    "length": 515
+  },
+  {
+    "country": "Libya",
+    "river": "Great Man-Made river",
+    "pronunciation": "GRAYT MAN-MAYD RIV-er",
+    "ipa": "greɪt mæn meɪd ˈrɪv.ər",
+    "length": 4000
+  },
+  {
+    "country": "Lithuania",
+    "river": "Nemunas",
+    "pronunciation": "neh-MOO-nahs",
+    "ipa": "nɛˈmu.nɑs",
+    "length": 937
+  },
+  {
+    "country": "Luxembourg",
+    "river": "Moselle",
+    "pronunciation": "moh-ZEL",
+    "ipa": "moʊˈzɛl",
+    "length": 544
+  },
+  {
+    "country": "Madagascar",
+    "river": "Mangoky",
+    "pronunciation": "mahn-GOH-kee",
+    "ipa": "mɑnˈgoʊ.ki",
+    "length": 564
+  },
+  {
+    "country": "Malawi",
+    "river": "Shire",
+    "pronunciation": "SHEER",
+    "ipa": "ʃɪr",
+    "length": 402
+  },
+  {
+    "country": "Malaysia",
+    "river": "Rajang",
+    "pronunciation": "rah-JAHNG",
+    "ipa": "rəˈdʒɑŋ",
+    "length": 563
+  },
+  {
+    "country": "Mali",
+    "river": "Niger",
+    "pronunciation": "NY-jer",
+    "ipa": "ˈnaɪ.dʒər",
+    "length": 4180
+  },
+  {
+    "country": "Mauritania",
+    "river": "Senegal",
+    "pronunciation": "sen-ih-GAHL",
+    "ipa": "ˌsɛn.ɪˈgɔl",
+    "length": 1790
+  },
+  {
+    "country": "Mexico",
+    "river": "Rio Grande",
+    "pronunciation": "REE-oh GRAHN-day",
+    "ipa": "ˈri.oʊ ˈgrɑn.deɪ",
+    "length": 3034
+  },
+  {
+    "country": "Moldova",
+    "river": "Dniester",
+    "pronunciation": "DNEE-ster",
+    "ipa": "ˈdni.stər",
+    "length": 1352
+  },
+  {
+    "country": "Mongolia",
+    "river": "Orkhon",
+    "pronunciation": "OR-khon",
+    "ipa": "ˈɔr.xən",
+    "length": 1124
+  },
+  {
+    "country": "Montenegro",
+    "river": "Tara",
+    "pronunciation": "TAH-rah",
+    "ipa": "ˈtɑ.rə",
+    "length": 144
+  },
+  {
+    "country": "Morocco",
+    "river": "Draa",
+    "pronunciation": "DRAH",
+    "ipa": "drɑ",
+    "length": 1100
+  },
+  {
+    "country": "Mozambique",
+    "river": "Zambezi",
+    "pronunciation": "zam-BEE-zee",
+    "ipa": "zæmˈbi.zi",
+    "length": 2574
+  },
+  {
+    "country": "Myanmar",
+    "river": "Irrawaddy",
+    "pronunciation": "ih-rah-WAH-dee",
+    "ipa": "ɪ.rəˈwɑ.di",
+    "length": 2170
+  },
+  {
+    "country": "Namibia",
+    "river": "Orange",
+    "pronunciation": "OR-inj",
+    "ipa": "ˈɔr.ɪndʒ",
+    "length": 2200
+  },
+  {
+    "country": "Nepal",
+    "river": "Karnali",
+    "pronunciation": "kar-NAH-lee",
+    "ipa": "kərˈnɑ.li",
+    "length": 1080
+  },
+  {
+    "country": "Netherlands",
+    "river": "Rhine",
+    "pronunciation": "RYNE",
+    "ipa": "raɪn",
+    "length": 1230
+  },
+  {
+    "country": "New Zealand",
+    "river": "Waikato",
+    "pronunciation": "wy-KAH-toh",
+    "ipa": "waɪˈkɑ.toʊ",
+    "length": 425
+  },
+  {
+    "country": "Nicaragua",
+    "river": "Coco",
+    "pronunciation": "KOH-koh",
+    "ipa": "ˈkoʊ.koʊ",
+    "length": 750
+  },
+  {
+    "country": "Niger",
+    "river": "Niger",
+    "pronunciation": "NY-jer",
+    "ipa": "ˈnaɪ.dʒər",
+    "length": 4180
+  },
+  {
+    "country": "Nigeria",
+    "river": "Niger",
+    "pronunciation": "NY-jer",
+    "ipa": "ˈnaɪ.dʒər",
+    "length": 4180
+  },
+  {
+    "country": "North Korea",
+    "river": "Yalu",
+    "pronunciation": "YAH-loo",
+    "ipa": "ˈjɑ.lu",
+    "length": 790
+  },
+  {
+    "country": "North Macedonia",
+    "river": "Vardar",
+    "pronunciation": "VAR-dar",
+    "ipa": "ˈvɑr.dɑr",
+    "length": 388
+  },
+  {
+    "country": "Norway",
+    "river": "Glomma",
+    "pronunciation": "GLOHM-mah",
+    "ipa": "ˈgloʊm.ə",
+    "length": 604
+  },
+  {
+    "country": "Pakistan",
+    "river": "Indus",
+    "pronunciation": "IN-dus",
+    "ipa": "ˈɪn.dəs",
+    "length": 3180
+  },
+  {
+    "country": "Panama",
+    "river": "Tuira",
+    "pronunciation": "too-EE-rah",
+    "ipa": "tuˈi.rə",
+    "length": 230
+  },
+  {
+    "country": "Papua New Guinea",
+    "river": "Sepik",
+    "pronunciation": "SEH-pik",
+    "ipa": "ˈsɛ.pɪk",
+    "length": 1126
+  },
+  {
+    "country": "Paraguay",
+    "river": "Paraguay",
+    "pronunciation": "PAR-ah-gwy",
+    "ipa": "ˈpær.ə.gwaɪ",
+    "length": 2621
+  },
+  {
+    "country": "Peru",
+    "river": "Ucayali",
+    "pronunciation": "oo-kah-YAH-lee",
+    "ipa": "u.kəˈjɑ.li",
+    "length": 1771
+  },
+  {
+    "country": "Philippines",
+    "river": "Cagayan",
+    "pronunciation": "kah-gah-YAHN",
+    "ipa": "kɑ.gəˈjɑn",
+    "length": 505
+  },
+  {
+    "country": "Poland",
+    "river": "Vistula",
+    "pronunciation": "VIS-choo-lah",
+    "ipa": "ˈvɪs.tʃu.lə",
+    "length": 1047
+  },
+  {
+    "country": "Portugal",
+    "river": "Tagus",
+    "pronunciation": "TAY-gus",
+    "ipa": "ˈteɪ.gəs",
+    "length": 1007
+  },
+  {
+    "country": "Romania",
+    "river": "Danube",
+    "pronunciation": "DAN-yoob",
+    "ipa": "ˈdæn.jub",
+    "length": 2850
+  },
+  {
+    "country": "Russia",
+    "river": "Lena",
+    "pronunciation": "LEH-nah",
+    "ipa": "ˈlɛ.nə",
+    "length": 4400
+  },
+  {
+    "country": "Rwanda",
+    "river": "Akagera",
+    "pronunciation": "ah-kah-GEH-rah",
+    "ipa": "ɑ.kəˈgeɪ.rə",
+    "length": 597
+  },
+  {
+    "country": "Saudi Arabia",
+    "river": "Wadi al-Rummah",
+    "pronunciation": "WAH-dee al-ROOM-mah",
+    "ipa": "ˈwɑ.di æl ˈrum.ə",
+    "length": 600
+  },
+  {
+    "country": "Senegal",
+    "river": "Senegal",
+    "pronunciation": "sen-ih-GAHL",
+    "ipa": "ˌsɛn.ɪˈgɔl",
+    "length": 1790
+  },
+  {
+    "country": "Serbia",
+    "river": "Danube",
+    "pronunciation": "DAN-yoob",
+    "ipa": "ˈdæn.jub",
+    "length": 2850
+  },
+  {
+    "country": "Sierra Leone",
+    "river": "Rokel",
+    "pronunciation": "roh-KEL",
+    "ipa": "roʊˈkɛl",
+    "length": 400
+  },
+  {
+    "country": "Slovakia",
+    "river": "Danube",
+    "pronunciation": "DAN-yoob",
+    "ipa": "ˈdæn.jub",
+    "length": 2850
+  },
+  {
+    "country": "Slovenia",
+    "river": "Sava",
+    "pronunciation": "SAH-vah",
+    "ipa": "ˈsɑ.və",
+    "length": 945
+  },
+  {
+    "country": "Somalia",
+    "river": "Shabelle",
+    "pronunciation": "shah-BEL-lay",
+    "ipa": "ʃɑˈbɛl.eɪ",
+    "length": 1130
+  },
+  {
+    "country": "South Africa",
+    "river": "Orange",
+    "pronunciation": "OR-inj",
+    "ipa": "ˈɔr.ɪndʒ",
+    "length": 2200
+  },
+  {
+    "country": "South Korea",
+    "river": "Nakdong",
+    "pronunciation": "NAHK-dong",
+    "ipa": "ˈnɑk.dɔŋ",
+    "length": 525
+  },
+  {
+    "country": "South Sudan",
+    "river": "White Nile",
+    "pronunciation": "WHYTE NYLE",
+    "ipa": "waɪt naɪl",
+    "length": 3700
+  },
+  {
+    "country": "Spain",
+    "river": "Tagus",
+    "pronunciation": "TAY-gus",
+    "ipa": "ˈteɪ.gəs",
+    "length": 1007
+  },
+  {
+    "country": "Sri Lanka",
+    "river": "Mahaweli",
+    "pronunciation": "mah-hah-WEH-lee",
+    "ipa": "mɑ.həˈweɪ.li",
+    "length": 335
+  },
+  {
+    "country": "Sudan",
+    "river": "Nile",
+    "pronunciation": "NYLE",
+    "ipa": "naɪl",
+    "length": 6650
+  },
+  {
+    "country": "Suriname",
+    "river": "Suriname",
+    "pronunciation": "soor-ih-NAHM",
+    "ipa": "ˌsʊr.ɪˈnɑm",
+    "length": 480
+  },
+  {
+    "country": "Sweden",
+    "river": "Göta älv",
+    "pronunciation": "YUR-tah ELV",
+    "ipa": "ˈjøː.tɑ ɛlv",
+    "length": 720
+  },
+  {
+    "country": "Switzerland",
+    "river": "Rhine",
+    "pronunciation": "RYNE",
+    "ipa": "raɪn",
+    "length": 1230
+  },
+  {
+    "country": "Syria",
+    "river": "Euphrates",
+    "pronunciation": "you-FRAY-teez",
+    "ipa": "juˈfreɪ.tiz",
+    "length": 2800
+  },
+  {
+    "country": "Tajikistan",
+    "river": "Amu Darya",
+    "pronunciation": "ah-MOO DAR-yah",
+    "ipa": "ɑˈmu ˈdɑr.jə",
+    "length": 2620
+  },
+  {
+    "country": "Tanzania",
+    "river": "Rufiji",
+    "pronunciation": "roo-FEE-jee",
+    "ipa": "ruˈfi.dʒi",
+    "length": 600
+  },
+  {
+    "country": "Thailand",
+    "river": "Mekong",
+    "pronunciation": "MEH-kong",
+    "ipa": "ˈmeɪ.kɔŋ",
+    "length": 4350
+  },
+  {
+    "country": "Togo",
+    "river": "Mono",
+    "pronunciation": "MOH-noh",
+    "ipa": "ˈmoʊ.noʊ",
+    "length": 467
+  },
+  {
+    "country": "Tunisia",
+    "river": "Medjerda",
+    "pronunciation": "med-JER-dah",
+    "ipa": "mɛdˈdʒɛr.də",
+    "length": 460
+  },
+  {
+    "country": "Turkey",
+    "river": "Kızılırmak",
+    "pronunciation": "kuh-ZUH-luhr-mahk",
+    "ipa": "kɨˈzɨ.lɯr.mɑk",
+    "length": 1355
+  },
+  {
+    "country": "Turkmenistan",
+    "river": "Amu Darya",
+    "pronunciation": "ah-MOO DAR-yah",
+    "ipa": "ɑˈmu ˈdɑr.jə",
+    "length": 2620
+  },
+  {
+    "country": "Uganda",
+    "river": "Nile",
+    "pronunciation": "NYLE",
+    "ipa": "naɪl",
+    "length": 6650
+  },
+  {
+    "country": "Ukraine",
+    "river": "Dnieper",
+    "pronunciation": "DNEE-per",
+    "ipa": "ˈdni.pər",
+    "length": 2201
+  },
+  {
+    "country": "United Kingdom",
+    "river": "Severn",
+    "pronunciation": "SEV-ern",
+    "ipa": "ˈsɛv.ərn",
+    "length": 354
+  },
+  {
+    "country": "United States",
+    "river": "Missouri",
+    "pronunciation": "mih-ZOOR-ee",
+    "ipa": "mɪˈzʊr.i",
+    "length": 4087
+  },
+  {
+    "country": "Uruguay",
+    "river": "Uruguay",
+    "pronunciation": "oor-oo-GWAY",
+    "ipa": "ˌʊr.uˈgwaɪ",
+    "length": 1838
+  },
+  {
+    "country": "Uzbekistan",
+    "river": "Amu Darya",
+    "pronunciation": "ah-MOO DAR-yah",
+    "ipa": "ɑˈmu ˈdɑr.jə",
+    "length": 2620
+  },
+  {
+    "country": "Venezuela",
+    "river": "Orinoco",
+    "pronunciation": "or-ih-NOH-koh",
+    "ipa": "ˌɔr.ɪˈnoʊ.koʊ",
+    "length": 2140
+  },
+  {
+    "country": "Vietnam",
+    "river": "Mekong",
+    "pronunciation": "MEH-kong",
+    "ipa": "ˈmeɪ.kɔŋ",
+    "length": 4350
+  },
+  {
+    "country": "Zambia",
+    "river": "Zambezi",
+    "pronunciation": "zam-BEE-zee",
+    "ipa": "zæmˈbi.zi",
+    "length": 2574
+  },
+  {
+    "country": "Zimbabwe",
+    "river": "Zambezi",
+    "pronunciation": "zam-BEE-zee",
+    "ipa": "zæmˈbi.zi",
+    "length": 2574
+  }
+]

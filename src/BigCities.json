@@ -1,0 +1,1178 @@
+[
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "pronunciation": "KAH-bul",
+    "ipa": "ˈkɑ.bul"
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "pronunciation": "tih-RAH-nah",
+    "ipa": "tɪˈrɑ.nə"
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "pronunciation": "al-JEERZ",
+    "ipa": "ælˈdʒɪrz"
+  },
+  {
+    "country": "Andorra",
+    "city": "Andorra la Vella",
+    "pronunciation": "an-DOR-uh lah VEH-yah",
+    "ipa": "ænˈdɔr.ə lə ˈveɪ.jə"
+  },
+  {
+    "country": "Angola",
+    "city": "Luanda",
+    "pronunciation": "loo-AHN-dah",
+    "ipa": "luˈɑn.də"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "city": "Saint John's",
+    "pronunciation": "saynt JONZ",
+    "ipa": "seɪnt ˈdʒɑnz"
+  },
+  {
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "pronunciation": "BWAY-nus EYE-reez",
+    "ipa": "ˌbweɪ.nəs ˈaɪ.riz"
+  },
+  {
+    "country": "Armenia",
+    "city": "Yerevan",
+    "pronunciation": "yehr-eh-VAHN",
+    "ipa": "ˌjɛr.ɛˈvɑn"
+  },
+  {
+    "country": "Australia",
+    "city": "Sydney",
+    "pronunciation": "SID-nee",
+    "ipa": "ˈsɪd.ni"
+  },
+  {
+    "country": "Austria",
+    "city": "Vienna",
+    "pronunciation": "vee-EH-nah",
+    "ipa": "viˈɛn.ə"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Baku",
+    "pronunciation": "bah-KOO",
+    "ipa": "bɑˈku"
+  },
+  {
+    "country": "Bahamas",
+    "city": "Nassau",
+    "pronunciation": "NAS-saw",
+    "ipa": "ˈnæ.sɔ"
+  },
+  {
+    "country": "Bahrain",
+    "city": "Manama",
+    "pronunciation": "muh-NAH-mah",
+    "ipa": "məˈnɑ.mə"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "pronunciation": "DAH-kuh",
+    "ipa": "ˈdɑ.kə"
+  },
+  {
+    "country": "Barbados",
+    "city": "Bridgetown",
+    "pronunciation": "BRIJ-town",
+    "ipa": "ˈbrɪdʒ.taʊn"
+  },
+  {
+    "country": "Belarus",
+    "city": "Minsk",
+    "pronunciation": "MINSK",
+    "ipa": "mɪnsk"
+  },
+  {
+    "country": "Belgium",
+    "city": "Brussels",
+    "pronunciation": "BRUH-sulz",
+    "ipa": "ˈbrʌ.səlz"
+  },
+  {
+    "country": "Belize",
+    "city": "Belmopan",
+    "pronunciation": "bel-moh-PAN",
+    "ipa": "bɛl.moʊˈpɑn"
+  },
+  {
+    "country": "Benin",
+    "city": "Porto-Novo",
+    "pronunciation": "POR-toh NOH-voh",
+    "ipa": "ˈpɔr.toʊ ˈnoʊ.voʊ"
+  },
+  {
+    "country": "Bhutan",
+    "city": "Thimphu",
+    "pronunciation": "TIM-poo",
+    "ipa": "ˈtɪm.pu"
+  },
+  {
+    "country": "Bolivia",
+    "city": "Sucre",
+    "pronunciation": "SOO-kray",
+    "ipa": "ˈsu.kreɪ"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "city": "Sarajevo",
+    "pronunciation": "sah-rah-YEH-voh",
+    "ipa": "ˌsɑr.əˈjeɪ.voʊ"
+  },
+  {
+    "country": "Botswana",
+    "city": "Gaborone",
+    "pronunciation": "gah-boh-ROH-nay",
+    "ipa": "ˌgɑ.bəˈroʊ.neɪ"
+  },
+  {
+    "country": "Brazil",
+    "city": "São Paulo",
+    "pronunciation": "sowng POW-loo",
+    "ipa": "sɐ̃w̃ ˈpaw.lu"
+  },
+  {
+    "country": "Brunei",
+    "city": "Bandar Seri Begawan",
+    "pronunciation": "BAN-dar SEH-ree beh-GAH-wan",
+    "ipa": "ˈbæn.dɑr ˈsɛ.ri bəˈgɑ.wɑn"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "pronunciation": "SOH-fee-ah",
+    "ipa": "ˈsoʊ.fi.ə"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "Ouagadougou",
+    "pronunciation": "wah-gah-DOO-goo",
+    "ipa": "ˌwɑ.gəˈdu.gu"
+  },
+  {
+    "country": "Burundi",
+    "city": "Bujumbura",
+    "pronunciation": "boo-jum-BOO-rah",
+    "ipa": "ˌbu.dʒʊmˈbʊ.rə"
+  },
+  {
+    "country": "Cabo Verde",
+    "city": "Praia",
+    "pronunciation": "PRY-ah",
+    "ipa": "ˈpraɪ.ə"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Phnom Penh",
+    "pronunciation": "puh-NOM PEN",
+    "ipa": "pəˈnɔm ˈpɛn"
+  },
+  {
+    "country": "Cameroon",
+    "city": "Yaoundé",
+    "pronunciation": "yown-DAY",
+    "ipa": "jaʊnˈdeɪ"
+  },
+  {
+    "country": "Canada",
+    "city": "Toronto",
+    "pronunciation": "tuh-RON-toh",
+    "ipa": "təˈrɑn.toʊ"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Bangui",
+    "pronunciation": "bang-GEE",
+    "ipa": "bæŋˈgi"
+  },
+  {
+    "country": "Chad",
+    "city": "N'Djamena",
+    "pronunciation": "en-jah-MAY-nah",
+    "ipa": "ɛnˌdʒɑˈmeɪ.nə"
+  },
+  {
+    "country": "Chile",
+    "city": "Santiago",
+    "pronunciation": "san-tee-AH-goh",
+    "ipa": "ˌsæn.tiˈɑ.goʊ"
+  },
+  {
+    "country": "China",
+    "city": "Shanghai",
+    "pronunciation": "shang-HY",
+    "ipa": "ʃæŋˈhaɪ"
+  },
+  {
+    "country": "Colombia",
+    "city": "Bogotá",
+    "pronunciation": "boh-goh-TAH",
+    "ipa": "ˌboʊ.gəˈtɑ"
+  },
+  {
+    "country": "Comoros",
+    "city": "Moroni",
+    "pronunciation": "moh-ROH-nee",
+    "ipa": "moʊˈroʊ.ni"
+  },
+  {
+    "country": "Congo",
+    "city": "Kinshasa",
+    "pronunciation": "kin-SHAH-sah",
+    "ipa": "kɪnˈʃɑ.sə"
+  },
+  {
+    "country": "Costa Rica",
+    "city": "San José",
+    "pronunciation": "san hoh-ZAY",
+    "ipa": "sæn hoʊˈzeɪ"
+  },
+  {
+    "country": "Croatia",
+    "city": "Zagreb",
+    "pronunciation": "ZAH-greb",
+    "ipa": "ˈzɑ.grɛb"
+  },
+  {
+    "country": "Cuba",
+    "city": "Havana",
+    "pronunciation": "huh-VAN-uh",
+    "ipa": "həˈvæn.ə"
+  },
+  {
+    "country": "Cyprus",
+    "city": "Nicosia",
+    "pronunciation": "nik-oh-SEE-ah",
+    "ipa": "ˌnɪk.əˈsi.ə"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Prague",
+    "pronunciation": "PRAHG",
+    "ipa": "prɑg"
+  },
+  {
+    "country": "Denmark",
+    "city": "Copenhagen",
+    "pronunciation": "koh-pen-HAY-gun",
+    "ipa": "ˌkoʊ.pənˈheɪ.gən"
+  },
+  {
+    "country": "Djibouti",
+    "city": "Djibouti city",
+    "pronunciation": "jih-BOO-tee SIT-ee",
+    "ipa": "dʒɪˈbu.ti ˈsɪ.ti"
+  },
+  {
+    "country": "Dominica",
+    "city": "Roseau",
+    "pronunciation": "roh-ZOH",
+    "ipa": "roʊˈzoʊ"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Santo Domingo",
+    "pronunciation": "SAN-toh doh-MING-goh",
+    "ipa": "ˈsæn.toʊ dəˈmɪŋ.goʊ"
+  },
+  {
+    "country": "East Timor",
+    "city": "Dili",
+    "pronunciation": "DEE-lee",
+    "ipa": "ˈdi.li"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Guayaquil",
+    "pronunciation": "gwy-ah-KEEL",
+    "ipa": "ˌgwaɪ.əˈkil"
+  },
+  {
+    "country": "Egypt",
+    "city": "Cairo",
+    "pronunciation": "KY-roh",
+    "ipa": "ˈkaɪ.roʊ"
+  },
+  {
+    "country": "El Salvador",
+    "city": "San Salvador",
+    "pronunciation": "san sal-vah-DOR",
+    "ipa": "sæn ˌsæl.vəˈdɔr"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "city": "Malabo",
+    "pronunciation": "mah-LAH-boh",
+    "ipa": "məˈlɑ.boʊ"
+  },
+  {
+    "country": "Eritrea",
+    "city": "Asmara",
+    "pronunciation": "ahs-MAH-rah",
+    "ipa": "ɑsˈmɑ.rə"
+  },
+  {
+    "country": "Estonia",
+    "city": "Tallinn",
+    "pronunciation": "TAH-lin",
+    "ipa": "ˈtɑ.lɪn"
+  },
+  {
+    "country": "Eswatini",
+    "city": "Mbabane",
+    "pronunciation": "mm-bah-BAH-nay",
+    "ipa": "m̩.bɑˈbɑ.neɪ"
+  },
+  {
+    "country": "Ethiopia",
+    "city": "Addis Ababa",
+    "pronunciation": "AH-dis AH-bah-bah",
+    "ipa": "ˈɑ.dɪs ˈɑ.bə.bə"
+  },
+  {
+    "country": "Fiji",
+    "city": "Suva",
+    "pronunciation": "SOO-vah",
+    "ipa": "ˈsu.və"
+  },
+  {
+    "country": "Finland",
+    "city": "Helsinki",
+    "pronunciation": "HEL-sin-kee",
+    "ipa": "ˈhɛl.sɪŋ.ki"
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "pronunciation": "PAR-iss",
+    "ipa": "ˈpær.ɪs"
+  },
+  {
+    "country": "Gabon",
+    "city": "Libreville",
+    "pronunciation": "LEE-bruh-vil",
+    "ipa": "ˈli.brə.vɪl"
+  },
+  {
+    "country": "Gambia",
+    "city": "Banjul",
+    "pronunciation": "ban-JOOL",
+    "ipa": "bænˈdʒul"
+  },
+  {
+    "country": "Georgia",
+    "city": "Tbilisi",
+    "pronunciation": "tuh-bih-LEE-see",
+    "ipa": "təˌbɪˈli.si"
+  },
+  {
+    "country": "Germany",
+    "city": "Berlin",
+    "pronunciation": "bur-LIN",
+    "ipa": "bɜrˈlɪn"
+  },
+  {
+    "country": "Ghana",
+    "city": "Accra",
+    "pronunciation": "ah-KRAH",
+    "ipa": "əˈkrɑ"
+  },
+  {
+    "country": "Greece",
+    "city": "Athens",
+    "pronunciation": "ATH-inz",
+    "ipa": "ˈæθ.ɪnz"
+  },
+  {
+    "country": "Grenada",
+    "city": "Saint George's",
+    "pronunciation": "saynt JOR-jiz",
+    "ipa": "seɪnt ˈdʒɔr.dʒɪz"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Guatemala city",
+    "pronunciation": "gwah-teh-MAH-lah SIT-ee",
+    "ipa": "ˌgwɑ.təˈmɑ.lə ˈsɪ.ti"
+  },
+  {
+    "country": "Guinea",
+    "city": "Conakry",
+    "pronunciation": "KOH-nuh-kree",
+    "ipa": "ˈkoʊ.nə.kri"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "city": "Bissau",
+    "pronunciation": "bih-SOW",
+    "ipa": "bɪˈsaʊ"
+  },
+  {
+    "country": "Guyana",
+    "city": "Georgetown",
+    "pronunciation": "JORJ-town",
+    "ipa": "ˈdʒɔrdʒ.taʊn"
+  },
+  {
+    "country": "Haiti",
+    "city": "Port-au-Prince",
+    "pronunciation": "PORT-oh-PRINS",
+    "ipa": "ˌpɔrt.oʊˈprɪns"
+  },
+  {
+    "country": "Honduras",
+    "city": "Tegucigalpa",
+    "pronunciation": "teh-goo-see-GAHL-pah",
+    "ipa": "tɛˌgu.sɪˈgɑl.pə"
+  },
+  {
+    "country": "Hungary",
+    "city": "Budapest",
+    "pronunciation": "BOO-duh-pest",
+    "ipa": "ˈbu.də.pɛst"
+  },
+  {
+    "country": "Iceland",
+    "city": "Reykjavík",
+    "pronunciation": "RAY-kyah-vik",
+    "ipa": "ˈreɪ.kjɑ.vɪk"
+  },
+  {
+    "country": "India",
+    "city": "Mumbai",
+    "pronunciation": "mum-BY",
+    "ipa": "mʊmˈbaɪ"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "pronunciation": "juh-KAR-tah",
+    "ipa": "dʒəˈkɑr.tə"
+  },
+  {
+    "country": "Iran",
+    "city": "Tehran",
+    "pronunciation": "teh-RAHN",
+    "ipa": "tɛˈrɑn"
+  },
+  {
+    "country": "Iraq",
+    "city": "Baghdad",
+    "pronunciation": "BAG-dad",
+    "ipa": "ˈbæg.dæd"
+  },
+  {
+    "country": "Ireland",
+    "city": "Dublin",
+    "pronunciation": "DUB-lin",
+    "ipa": "ˈdʌb.lɪn"
+  },
+  {
+    "country": "Israel",
+    "city": "Jerusalem",
+    "pronunciation": "juh-ROO-suh-lem",
+    "ipa": "dʒəˈru.sə.lɛm"
+  },
+  {
+    "country": "Italy",
+    "city": "Rome",
+    "pronunciation": "ROHM",
+    "ipa": "roʊm"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Abidjan",
+    "pronunciation": "ah-bih-JAHN",
+    "ipa": "ˌɑ.bɪˈdʒɑn"
+  },
+  {
+    "country": "Jamaica",
+    "city": "Kingston",
+    "pronunciation": "KING-stun",
+    "ipa": "ˈkɪŋ.stən"
+  },
+  {
+    "country": "Japan",
+    "city": "Tokyo",
+    "pronunciation": "TOH-kee-oh",
+    "ipa": "ˈtoʊ.ki.oʊ"
+  },
+  {
+    "country": "Jordan",
+    "city": "Amman",
+    "pronunciation": "ah-MAHN",
+    "ipa": "ɑˈmɑn"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "pronunciation": "ahl-mah-TEE",
+    "ipa": "ˌɑl.məˈti"
+  },
+  {
+    "country": "Kenya",
+    "city": "Nairobi",
+    "pronunciation": "ny-ROH-bee",
+    "ipa": "naɪˈroʊ.bi"
+  },
+  {
+    "country": "Kiribati",
+    "city": "South Tarawa",
+    "pronunciation": "sowth tah-RAH-wah",
+    "ipa": "saʊθ təˈrɑ.wə"
+  },
+  {
+    "country": "Kosovo",
+    "city": "Pristina",
+    "pronunciation": "PRISH-tee-nah",
+    "ipa": "ˈprɪʃ.ti.nə"
+  },
+  {
+    "country": "Kuwait",
+    "city": "Kuwait city",
+    "pronunciation": "koo-WAYT SIT-ee",
+    "ipa": "kuˈweɪt ˈsɪ.ti"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "city": "Bishkek",
+    "pronunciation": "bish-KEK",
+    "ipa": "bɪʃˈkɛk"
+  },
+  {
+    "country": "Laos",
+    "city": "Vientiane",
+    "pronunciation": "vyen-TYAHN",
+    "ipa": "vjɛnˈtjɑn"
+  },
+  {
+    "country": "Latvia",
+    "city": "Riga",
+    "pronunciation": "REE-gah",
+    "ipa": "ˈri.gə"
+  },
+  {
+    "country": "Lebanon",
+    "city": "Beirut",
+    "pronunciation": "bay-ROOT",
+    "ipa": "beɪˈrut"
+  },
+  {
+    "country": "Lesotho",
+    "city": "Maseru",
+    "pronunciation": "MAH-seh-roo",
+    "ipa": "ˈmɑ.sɛ.ru"
+  },
+  {
+    "country": "Liberia",
+    "city": "Monrovia",
+    "pronunciation": "mon-ROH-vee-ah",
+    "ipa": "mɑnˈroʊ.vi.ə"
+  },
+  {
+    "country": "Libya",
+    "city": "Tripoli",
+    "pronunciation": "TRIP-oh-lee",
+    "ipa": "ˈtrɪp.ə.li"
+  },
+  {
+    "country": "Liechtenstein",
+    "city": "Vaduz",
+    "pronunciation": "fah-DOOTS",
+    "ipa": "fɑˈduts"
+  },
+  {
+    "country": "Lithuania",
+    "city": "Vilnius",
+    "pronunciation": "VIL-nee-us",
+    "ipa": "ˈvɪl.ni.əs"
+  },
+  {
+    "country": "Luxembourg",
+    "city": "Luxembourg city",
+    "pronunciation": "LUK-sum-burg SIT-ee",
+    "ipa": "ˈlʌk.səm.bɜrg ˈsɪ.ti"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Antananarivo",
+    "pronunciation": "an-tah-nah-nah-REE-voh",
+    "ipa": "ˌɑn.tə.ˌnɑ.nəˈri.voʊ"
+  },
+  {
+    "country": "Malawi",
+    "city": "Lilongwe",
+    "pronunciation": "lih-LONG-way",
+    "ipa": "lɪˈlɔŋ.weɪ"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "pronunciation": "KWAH-lah loom-POOR",
+    "ipa": "ˈkwɑ.lə lʊmˈpʊr"
+  },
+  {
+    "country": "Maldives",
+    "city": "Malé",
+    "pronunciation": "MAH-lay",
+    "ipa": "ˈmɑ.leɪ"
+  },
+  {
+    "country": "Mali",
+    "city": "Bamako",
+    "pronunciation": "BAH-mah-koh",
+    "ipa": "ˈbɑ.mə.koʊ"
+  },
+  {
+    "country": "Malta",
+    "city": "Valletta",
+    "pronunciation": "vuh-LET-uh",
+    "ipa": "vəˈlɛt.ə"
+  },
+  {
+    "country": "Marshall Islands",
+    "city": "Majuro",
+    "pronunciation": "mah-JOO-roh",
+    "ipa": "məˈdʒu.roʊ"
+  },
+  {
+    "country": "Mauritania",
+    "city": "Nouakchott",
+    "pronunciation": "noo-AHK-shot",
+    "ipa": "nuˈɑk.ʃɑt"
+  },
+  {
+    "country": "Mauritius",
+    "city": "Port Louis",
+    "pronunciation": "port LOO-iss",
+    "ipa": "pɔrt ˈlu.ɪs"
+  },
+  {
+    "country": "Mexico",
+    "city": "Mexico city",
+    "pronunciation": "MEK-sih-koh SIT-ee",
+    "ipa": "ˈmɛk.sɪ.koʊ ˈsɪ.ti"
+  },
+  {
+    "country": "Micronesia",
+    "city": "Palikir",
+    "pronunciation": "PAH-lih-keer",
+    "ipa": "ˈpɑ.lɪ.kir"
+  },
+  {
+    "country": "Moldova",
+    "city": "Chișinău",
+    "pronunciation": "kee-shih-NOW",
+    "ipa": "ˌki.ʃɪˈnaʊ"
+  },
+  {
+    "country": "Monaco",
+    "city": "Monaco",
+    "pronunciation": "MAH-nuh-koh",
+    "ipa": "ˈmɑ.nə.koʊ"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Ulaanbaatar",
+    "pronunciation": "oo-lahn-BAH-tar",
+    "ipa": "ˌu.lɑnˈbɑ.tɑr"
+  },
+  {
+    "country": "Montenegro",
+    "city": "Podgorica",
+    "pronunciation": "POD-gor-eet-sah",
+    "ipa": "ˈpɔd.gɔr.it.sə"
+  },
+  {
+    "country": "Morocco",
+    "city": "Casablanca",
+    "pronunciation": "kah-sah-BLAHN-kah",
+    "ipa": "ˌkɑ.səˈblɑŋ.kə"
+  },
+  {
+    "country": "Mozambique",
+    "city": "Maputo",
+    "pronunciation": "mah-POO-toh",
+    "ipa": "məˈpu.toʊ"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Yangon",
+    "pronunciation": "yan-GON",
+    "ipa": "jænˈgɔn"
+  },
+  {
+    "country": "Namibia",
+    "city": "Windhoek",
+    "pronunciation": "VINT-hook",
+    "ipa": "ˈvɪnt.huk"
+  },
+  {
+    "country": "Nauru",
+    "city": "Yaren",
+    "pronunciation": "YAH-ren",
+    "ipa": "ˈjɑ.rɛn"
+  },
+  {
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "pronunciation": "kat-man-DOO",
+    "ipa": "ˌkæt.mænˈdu"
+  },
+  {
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "pronunciation": "AM-stur-dam",
+    "ipa": "ˈæm.stər.dæm"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Auckland",
+    "pronunciation": "AWK-lund",
+    "ipa": "ˈɔk.lənd"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Managua",
+    "pronunciation": "mah-NAH-gwah",
+    "ipa": "məˈnɑ.gwə"
+  },
+  {
+    "country": "Niger",
+    "city": "Niamey",
+    "pronunciation": "nee-AH-may",
+    "ipa": "niˈɑ.meɪ"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Lagos",
+    "pronunciation": "LAY-gos",
+    "ipa": "ˈleɪ.gɒs"
+  },
+  {
+    "country": "North Korea",
+    "city": "Pyongyang",
+    "pronunciation": "pee-AWNG-yahng",
+    "ipa": "piˈɔŋ.jɑŋ"
+  },
+  {
+    "country": "North Macedonia",
+    "city": "Skopje",
+    "pronunciation": "SKAWP-yeh",
+    "ipa": "ˈskɔp.jɛ"
+  },
+  {
+    "country": "Norway",
+    "city": "Oslo",
+    "pronunciation": "OZ-loh",
+    "ipa": "ˈɑz.loʊ"
+  },
+  {
+    "country": "Oman",
+    "city": "Muscat",
+    "pronunciation": "MUS-kat",
+    "ipa": "ˈmʌs.kæt"
+  },
+  {
+    "country": "Pakistan",
+    "city": "Karachi",
+    "pronunciation": "kuh-RAH-chee",
+    "ipa": "kəˈrɑ.tʃi"
+  },
+  {
+    "country": "Palau",
+    "city": "Ngerulmud",
+    "pronunciation": "en-geh-ROOL-mood",
+    "ipa": "ɛŋ.gəˈrul.mud"
+  },
+  {
+    "country": "Palestine",
+    "city": "Gaza city",
+    "pronunciation": "GAH-zah SIT-ee",
+    "ipa": "ˈgɑ.zə ˈsɪ.ti"
+  },
+  {
+    "country": "Panama",
+    "city": "Panama city",
+    "pronunciation": "PAN-uh-mah SIT-ee",
+    "ipa": "ˈpæn.ə.mɑ ˈsɪ.ti"
+  },
+  {
+    "country": "Papua New Guinea",
+    "city": "Port Moresby",
+    "pronunciation": "port MORZ-bee",
+    "ipa": "pɔrt ˈmɔrz.bi"
+  },
+  {
+    "country": "Paraguay",
+    "city": "Asunción",
+    "pronunciation": "ah-soon-see-OWN",
+    "ipa": "ˌɑ.sun.siˈoʊn"
+  },
+  {
+    "country": "Peru",
+    "city": "Lima",
+    "pronunciation": "LEE-mah",
+    "ipa": "ˈli.mə"
+  },
+  {
+    "country": "Philippines",
+    "city": "Quezon",
+    "pronunciation": "KAY-zon SIT-ee",
+    "ipa": "ˈkeɪ.zɑn ˈsɪ.ti"
+  },
+  {
+    "country": "Poland",
+    "city": "Warsaw",
+    "pronunciation": "WAR-saw",
+    "ipa": "ˈwɔr.sɔ"
+  },
+  {
+    "country": "Portugal",
+    "city": "Lisbon",
+    "pronunciation": "LIZ-bun",
+    "ipa": "ˈlɪz.bən"
+  },
+  {
+    "country": "Qatar",
+    "city": "Doha",
+    "pronunciation": "DOH-hah",
+    "ipa": "ˈdoʊ.hɑ"
+  },
+  {
+    "country": "Romania",
+    "city": "Bucharest",
+    "pronunciation": "BOO-kuh-rest",
+    "ipa": "ˈbu.kə.rɛst"
+  },
+  {
+    "country": "Russia",
+    "city": "Moscow",
+    "pronunciation": "MOSS-koh",
+    "ipa": "ˈmɑs.kaʊ"
+  },
+  {
+    "country": "Rwanda",
+    "city": "Kigali",
+    "pronunciation": "kih-GAH-lee",
+    "ipa": "kɪˈgɑ.li"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "city": "Basseterre",
+    "pronunciation": "bas-TAIR",
+    "ipa": "bæsˈtɛr"
+  },
+  {
+    "country": "Saint Lucia",
+    "city": "Castries",
+    "pronunciation": "KAS-treez",
+    "ipa": "ˈkæs.triz"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "city": "Kingstown",
+    "pronunciation": "KINGZ-town",
+    "ipa": "ˈkɪŋz.taʊn"
+  },
+  {
+    "country": "Samoa",
+    "city": "Apia",
+    "pronunciation": "ah-PEE-ah",
+    "ipa": "ɑˈpi.ə"
+  },
+  {
+    "country": "San Marino",
+    "city": "San Marino",
+    "pronunciation": "san mah-REE-noh",
+    "ipa": "sæn məˈri.noʊ"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "city": "São Tomé",
+    "pronunciation": "sowng toh-MAY",
+    "ipa": "sɐ̃w̃ toʊˈmeɪ"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "pronunciation": "ree-YAHD",
+    "ipa": "riˈjɑd"
+  },
+  {
+    "country": "Senegal",
+    "city": "Dakar",
+    "pronunciation": "dah-KAR",
+    "ipa": "dɑˈkɑr"
+  },
+  {
+    "country": "Serbia",
+    "city": "Belgrade",
+    "pronunciation": "BEL-grayd",
+    "ipa": "ˈbɛl.greɪd"
+  },
+  {
+    "country": "Seychelles",
+    "city": "Victoria",
+    "pronunciation": "vik-TOR-ee-ah",
+    "ipa": "vɪkˈtɔr.i.ə"
+  },
+  {
+    "country": "Sierra Leone",
+    "city": "Freetown",
+    "pronunciation": "FREE-town",
+    "ipa": "ˈfri.taʊn"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "pronunciation": "SING-ah-por",
+    "ipa": "ˈsɪŋ.ə.pɔr"
+  },
+  {
+    "country": "Slovakia",
+    "city": "Bratislava",
+    "pronunciation": "BRAH-tih-slah-vah",
+    "ipa": "ˈbrɑ.tɪ.slɑ.və"
+  },
+  {
+    "country": "Slovenia",
+    "city": "Ljubljana",
+    "pronunciation": "lyoo-blee-AH-nah",
+    "ipa": "ljuˈbli.ɑ.nə"
+  },
+  {
+    "country": "Solomon Islands",
+    "city": "Honiara",
+    "pronunciation": "hoh-nee-AH-rah",
+    "ipa": "ˌhoʊ.niˈɑ.rə"
+  },
+  {
+    "country": "Somalia",
+    "city": "Mogadishu",
+    "pronunciation": "moh-gah-DEE-shoo",
+    "ipa": "ˌmoʊ.gəˈdi.ʃu"
+  },
+  {
+    "country": "South Africa",
+    "city": "Johannesburg",
+    "pronunciation": "joh-HAN-iss-burg",
+    "ipa": "dʒoʊˈhæn.ɪs.bɜrg"
+  },
+  {
+    "country": "South Korea",
+    "city": "Seoul",
+    "pronunciation": "SOLE",
+    "ipa": "soʊl"
+  },
+  {
+    "country": "South Sudan",
+    "city": "Juba",
+    "pronunciation": "JOO-bah",
+    "ipa": "ˈdʒu.bə"
+  },
+  {
+    "country": "Spain",
+    "city": "Madrid",
+    "pronunciation": "muh-DRID",
+    "ipa": "məˈdrɪd"
+  },
+  {
+    "country": "Sri Lanka",
+    "city": "Colombo",
+    "pronunciation": "kuh-LUM-boh",
+    "ipa": "kəˈlʌm.boʊ"
+  },
+  {
+    "country": "Sudan",
+    "city": "Khartoum",
+    "pronunciation": "kar-TOOM",
+    "ipa": "kɑrˈtum"
+  },
+  {
+    "country": "Suriname",
+    "city": "Paramaribo",
+    "pronunciation": "pah-rah-MAH-rih-boh",
+    "ipa": "ˌpɑ.rəˈmɑ.rɪ.boʊ"
+  },
+  {
+    "country": "Sweden",
+    "city": "Stockholm",
+    "pronunciation": "STOK-hohm",
+    "ipa": "ˈstɑk.hoʊm"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Zurich",
+    "pronunciation": "ZOOR-ik",
+    "ipa": "ˈzʊr.ɪk"
+  },
+  {
+    "country": "Syria",
+    "city": "Damascus",
+    "pronunciation": "duh-MAS-kus",
+    "ipa": "dəˈmæs.kəs"
+  },
+  {
+    "country": "Taiwan",
+    "city": "Taipei",
+    "pronunciation": "ty-PAY",
+    "ipa": "taɪˈpeɪ"
+  },
+  {
+    "country": "Tajikistan",
+    "city": "Dushanbe",
+    "pronunciation": "doo-SHAHN-beh",
+    "ipa": "duˈʃɑn.bɛ"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Dar es Salaam",
+    "pronunciation": "dar es sah-LAHM",
+    "ipa": "dɑr ɛs səˈlɑm"
+  },
+  {
+    "country": "Thailand",
+    "city": "Bangkok",
+    "pronunciation": "BANG-kok",
+    "ipa": "ˈbæŋ.kɑk"
+  },
+  {
+    "country": "Togo",
+    "city": "Lomé",
+    "pronunciation": "loh-MAY",
+    "ipa": "loʊˈmeɪ"
+  },
+  {
+    "country": "Tonga",
+    "city": "Nuku'alofa",
+    "pronunciation": "noo-koo-ah-LOH-fah",
+    "ipa": "ˌnu.ku.ɑˈloʊ.fə"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "city": "Port of Spain",
+    "pronunciation": "port uv SPAYN",
+    "ipa": "pɔrt əv speɪn"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Tunis",
+    "pronunciation": "TOO-nis",
+    "ipa": "ˈtu.nɪs"
+  },
+  {
+    "country": "Turkey",
+    "city": "Istanbul",
+    "pronunciation": "is-tan-BOOL",
+    "ipa": "ˌɪs.tɑnˈbul"
+  },
+  {
+    "country": "Turkmenistan",
+    "city": "Ashgabat",
+    "pronunciation": "ASH-guh-bat",
+    "ipa": "ˈæʃ.gə.bæt"
+  },
+  {
+    "country": "Tuvalu",
+    "city": "Funafuti",
+    "pronunciation": "foo-nah-FOO-tee",
+    "ipa": "ˌfu.nəˈfu.ti"
+  },
+  {
+    "country": "Uganda",
+    "city": "Kampala",
+    "pronunciation": "kam-PAH-lah",
+    "ipa": "kæmˈpɑ.lə"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "pronunciation": "KEE-ev",
+    "ipa": "ˈki.ɛv"
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "pronunciation": "doo-BY",
+    "ipa": "duˈbaɪ"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "pronunciation": "LUN-dun",
+    "ipa": "ˈlʌn.dən"
+  },
+  {
+    "country": "United States",
+    "city": "New York",
+    "pronunciation": "noo YORK",
+    "ipa": "nu ˈjɔrk"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "pronunciation": "mon-teh-vih-DAY-oh",
+    "ipa": "ˌmɑn.tə.vɪˈdeɪ.oʊ"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Tashkent",
+    "pronunciation": "tash-KENT",
+    "ipa": "tæʃˈkɛnt"
+  },
+  {
+    "country": "Vanuatu",
+    "city": "Port Vila",
+    "pronunciation": "port VEE-lah",
+    "ipa": "pɔrt ˈvi.lə"
+  },
+  {
+    "country": "Vatican city",
+    "city": "Vatican city",
+    "pronunciation": "VAT-ih-kun SIT-ee",
+    "ipa": "ˈvæt.ɪ.kən ˈsɪ.ti"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Caracas",
+    "pronunciation": "kah-RAH-kahs",
+    "ipa": "kəˈrɑ.kəs"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Ho Chi Minh city",
+    "pronunciation": "hoh chee MIN SIT-ee",
+    "ipa": "hoʊ tʃi mɪn ˈsɪ.ti"
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "pronunciation": "sah-NAH",
+    "ipa": "sɑˈnɑ"
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "pronunciation": "loo-SAH-kah",
+    "ipa": "luˈsɑ.kə"
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "pronunciation": "hah-RAH-ray",
+    "ipa": "həˈrɑ.reɪ"
+  }
+]

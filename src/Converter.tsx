@@ -135,6 +135,24 @@ const TransactionExcelConverter: React.FC = () => {
 
     return transactions;
   };
+
+  // Create CSV content
+  const headers = [
+    "Tran No",
+    "Tran Date",
+    "Dept",
+    "Book Code",
+    "Voucher No",
+    "Chq No",
+    "Voucher Date",
+    "Debit",
+    "Credit",
+    "Name",
+    "Sr/Ag/Pol No",
+    "Description",
+    "Bank Details",
+  ];
+
   const downloadExcel = (): void => {
     if (!fileContent) {
       setStatus("Please upload a file first");
@@ -142,56 +160,49 @@ const TransactionExcelConverter: React.FC = () => {
     }
 
     const transactions = parseTransactions(fileContent);
+    const groupedTransactions = transactions.reduce((acc, t) => {
+      const key = t.srAgPolNo;
+      if (!acc[key]) {
+        acc[key] = [];
+      }
+      acc[key].push(t);
+      return acc;
+    }, {} as Record<string, Transaction[]>);
 
-    // Create CSV content
-    const headers = [
-      "Tran No",
-      "Tran Date",
-      "Dept",
-      "Book Code",
-      "Voucher No",
-      "Chq No",
-      "Voucher Date",
-      "Debit",
-      "Credit",
-      "Name",
-      "Sr/Ag/Pol No",
-      "Description",
-      "Bank Details",
-    ];
+    Object.entries(groupedTransactions).forEach(([srAgPolNo, group]) => {
+      console.log(`Policy No: ${srAgPolNo}, Transactions:`, group);
+      if (group === undefined || group.length === 0) return;
 
-    let csvContent = headers.join(",") + "\n";
-
-    transactions.forEach((t: Transaction) => {
-      const row = [
-        t.tranNo,
-        t.tranDate,
-        t.dept,
-        t.bookCode,
-        t.voucherNo,
-        t.chqNo,
-        t.voucherDate,
-        t.debit,
-        t.credit,
-        `"${t.name}"`,
-        t.srAgPolNo,
-        `"${t.description}"`,
-        `"${t.bankDetails}"`,
-      ];
-      csvContent += row.join(",") + "\n";
+      let csvContent = headers.join(",") + "\n";
+      group.forEach((t: Transaction) => {
+        const row = [
+          t.tranNo,
+          t.tranDate,
+          t.dept,
+          t.bookCode,
+          t.voucherNo,
+          t.chqNo,
+          t.voucherDate,
+          t.debit,
+          t.credit,
+          `"${t.name}"`,
+          t.srAgPolNo,
+          `"${t.description}"`,
+          `"${t.bankDetails}"`,
+        ];
+        csvContent += row.join(",") + "\n";
+      });
+      // Create blob and download
+      const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+      const link = document.createElement("a");
+      const url = URL.createObjectURL(blob);
+      link.setAttribute("href", url);
+      link.setAttribute("download", `${srAgPolNo}-transactions.csv`);
+      link.style.visibility = "hidden";
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
     });
-
-    // Create blob and download
-    const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
-    const link = document.createElement("a");
-    const url = URL.createObjectURL(blob);
-    link.setAttribute("href", url);
-    link.setAttribute("download", "transactions.csv");
-    link.style.visibility = "hidden";
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-
     setStatus("Download complete!");
   };
 

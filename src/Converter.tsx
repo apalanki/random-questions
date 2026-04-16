@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Download, Upload } from "lucide-react";
-
+import JSZip from "jszip";
 interface Transaction {
   tranNo: string;
   tranDate: string;
@@ -16,6 +16,15 @@ interface Transaction {
   description: string;
   bankDetails: string;
 }
+
+const similarSrNumbers: { [key: string]: number } = {
+  "AAQPP9672D": 555407,
+  "000016744": 555407,
+  "AAVPV3793L": 555614,
+  "ACFPJ0915Q": 555891,
+  "ABZPP5548E": 555546,
+  "ABVPM2112K": 556676,
+};
 
 const TransactionExcelConverter: React.FC = () => {
   const [status, setStatus] = useState<string>("Please upload a file");
@@ -160,20 +169,31 @@ const TransactionExcelConverter: React.FC = () => {
     }
 
     const transactions = parseTransactions(fileContent);
-    const groupedTransactions = transactions.reduce((acc, t) => {
-      const key = t.srAgPolNo;
-      if (!acc[key]) {
-        acc[key] = [];
-      }
-      acc[key].push(t);
-      return acc;
-    }, {} as Record<string, Transaction[]>);
+
+    const groupedTransactions = transactions.reduce(
+      (acc, t) => {
+        const key = t.srAgPolNo;
+        const similarKey = similarSrNumbers[key] ?? key;
+        if (!acc[similarKey]) {
+          acc[similarKey] = [];
+        }
+        acc[similarKey].push(t);
+        return acc;
+      },
+      {} as Record<string, Transaction[]>,
+    );
+
+    const zip = new JSZip();
 
     Object.entries(groupedTransactions).forEach(([srAgPolNo, group]) => {
       console.log(`Policy No: ${srAgPolNo}, Transactions:`, group);
       if (group === undefined || group.length === 0) return;
 
+      let name = group[0].name || "unknown";
+      // replace spaces in name with underscores and limit to 20 characters for filename
+      name = name.replace(/[^a-zA-Z0-9]/g, "_").substring(0, 20);
       let csvContent = headers.join(",") + "\n";
+      let total = 0;
       group.forEach((t: Transaction) => {
         const row = [
           t.tranNo,
@@ -190,18 +210,21 @@ const TransactionExcelConverter: React.FC = () => {
           `"${t.description}"`,
           `"${t.bankDetails}"`,
         ];
+        total += parseFloat(t.debit);
         csvContent += row.join(",") + "\n";
       });
-      // Create blob and download
-      const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+      // add this total to the same row as debit and leave other columns empty
+      csvContent += `,,,,,,,${total.toFixed(2)},,,,,,` + "\n";
+      zip.file(`cir_${name}.csv`, csvContent);
+    });
+
+    // Generate the ZIP and trigger one download
+    zip.generateAsync({ type: "blob" }).then(function (content) {
+      const url = URL.createObjectURL(content);
       const link = document.createElement("a");
-      const url = URL.createObjectURL(blob);
-      link.setAttribute("href", url);
-      link.setAttribute("download", `${srAgPolNo}-transactions.csv`);
-      link.style.visibility = "hidden";
-      document.body.appendChild(link);
+      link.href = url;
+      link.download = "all_data.zip";
       link.click();
-      document.body.removeChild(link);
     });
     setStatus("Download complete!");
   };
